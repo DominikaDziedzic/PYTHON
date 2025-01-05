@@ -1,0 +1,43 @@
+title,company,technologies,job,location,salary,min_salary,max_salary,netto,period,salary_avg,is_senior
+Data Engineer / Snowflake Developer,ITDS Polska Sp. z o.o.,"SQL, Python, Snowflake Data Cloud",data analyst,Warszawa,23 000–31 500 zł netto (+ VAT) / mies.,23000.0,31500.0,netto,mies,27250.0,0
+Senior Data Engineer,ITP IT PERFORMANCE sp. z o.o.,"Python, Snowflake, DBT, GitLab, SQL, Git, AWS, Airflow, AutoMateNow",data analyst,Warszawa,125–155 zł netto (+ VAT) / godz.,21000.0,26040.0,netto,mies,23520.0,1
+Senior Data Engineer (Azure / Databricks),GETINDATA POLAND sp. z o.o.,"Python, Scala, Java, Databricks, Kafka, Git, Microsoft Azure, Docker, Terraform, Azure DevOps",data analyst,Warszawa,160–200 zł netto (+ VAT) / godz.,26880.0,33600.0,netto,mies,30240.0,1
+"Senior Fullstack (Angular, Node) / BI Platform Developer",BYTAMIC SOLUTIONS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,"Angular, TypeScript, Node.js",data analyst,Poznań,18 000–21 300 zł netto (+ VAT) / mies.,18000.0,21300.0,netto,mies,19650.0,1
+Data Engineer,Novaris Sp. z o.o.,"Python, Microsoft Azure, Azure Data Factory, Azure Databricks, Spark, Spark SQL, Azure DevOps",data analyst,Warszawa,21 000–28 000 zł netto (+ VAT) / mies.,21000.0,28000.0,netto,mies,24500.0,0
+Data Scientist,SQUARE ONE RESOURCES sp. z o.o.,"Python, SQL, PySpark, Azure Cloud, Databricks",data analyst,Warszawa,100–130 zł netto (+ VAT) / godz.,16800.0,21840.0,netto,mies,19320.0,0
+Senior Data Scientist,KUBO,"Python, LLM, PyTorch / TensorFlow / Keras",data analyst,Gdańsk,100–130 zł netto (+ VAT) / godz.,16800.0,21840.0,netto,mies,19320.0,1
+Data Analyst - Data Architect,CadEx Digital s.r.o.,"SQL, Sybase, Sybase Power Designer, 3NF",data analyst,Bratislava,15 100–19 500 zł brutto / mies.,10570.0,13650.0,netto,mies,12110.0,0
+Senior Data Scientist,Adform Sp. z o.o.,"Python, SQL, git, Docker, C#, Java, C, C++, Scala",data analyst,Warszawa,22 400–33 600 zł netto (+ VAT) / mies.,22400.0,33600.0,netto,mies,28000.0,1
+System - Business Analyst,Scalo Sp. z o.o.,"SQL, Kafka",data analyst,Katowice,140 zł netto (+ VAT) / godz.,23520.0,23520.0,netto,mies,23520.0,0
+Business Analyst,CHABRE IT SERVICES SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,data analyst,Warszawa,150 zł netto (+ VAT) / godz.,25200.0,25200.0,netto,mies,25200.0,0
+Business Analyst,NEONTRI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA,"BPMN, UML",data analyst,Warszawa,110–140 zł netto (+ VAT) / godz.,18480.0,23520.0,netto,mies,21000.0,0
+Analityk Biznesowo - Systemowy,CRESTT sp. z o.o.,"UML, BPMN, Enterprise Architect, Jira, Rest, SoapUI, XML, Json",data analyst,Warszawa,105–120 zł netto (+ VAT) / godz.,17640.0,20160.0,netto,mies,18900.0,0
+System - Business Analyst,Scalo Sp. z o.o.,"Jira, Confluence, SQL",data analyst,Warszawa,150 zł netto (+ VAT) / godz.,25200.0,25200.0,netto,mies,25200.0,0
+Data Engineer / Snowflake Developer,ITDS Polska Sp. z o.o.,"SQL, Python, Snowflake Data Cloud",data engineer,Warszawa,23 000–31 500 zł netto (+ VAT) / mies.,23000.0,31500.0,netto,mies,27250.0,0
+Senior Data Engineer,ITP IT PERFORMANCE sp. z o.o.,"Python, Snowflake, DBT, GitLab, SQL, Git, AWS, Airflow, AutoMateNow",data engineer,Warszawa,125–155 zł netto (+ VAT) / godz.,21000.0,26040.0,netto,mies,23520.0,1
+Senior Data Engineer (Azure / Databricks),GETINDATA POLAND sp. z o.o.,"Python, Scala, Java, Databricks, Kafka, Git, Microsoft Azure, Docker, Terraform, Azure DevOps",data engineer,Warszawa,160–200 zł netto (+ VAT) / godz.,26880.0,33600.0,netto,mies,30240.0,1
+Data Engineer,CadEx Digital s.r.o.,"SQL, PostgreSQL, Cassandra, Python, Java, Spark, Hadoop, Kafka, HDFS, NoSQL, Jira",data engineer,Bratislava,15 160–19 490 zł brutto / mies.,10612.0,13643.0,netto,mies,12127.5,0
+Data Engineer z Snowflake,ITP IT PERFORMANCE sp. z o.o.,"Snowflake, SQL, Python, GitLab",data engineer,Warszawa,120–145 zł netto (+ VAT) / godz.,20160.0,24360.0,netto,mies,22260.0,0
+Senior Data Engineer,ITligent Group Sp. z o.o.,"Azure Data Factory, Snowflake Data Cloud, Spark, GCP Data Flow, Apache Spark, Hadoop, SQL, Azure Databricks",data engineer,Warszawa,20 000–30 000 zł netto (+ VAT) / mies.,20000.0,30000.0,netto,mies,25000.0,1
+Data Engineer (AWS & Python),CHABRE IT SERVICES SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,"Python, AWS",data engineer,Warszawa,180 zł netto (+ VAT) / godz.,30240.0,30240.0,netto,mies,30240.0,0
+Senior Cloud Data Engineer,Team Connect Sp. z o.o.,"SQL, NoSQL, Python, DataBricks, Snowflake, Microsoft Azure, PySpark",data engineer,Warszawa,25 600–28 800 zł netto (+ VAT) / mies.,25600.0,28800.0,netto,mies,27200.0,1
+"Data Engineer (Python, AWS)",Scalo Sp. z o.o.,"SQL, Python, AWS, Kubernetes, Docker",data engineer,Wrocław,140 zł netto (+ VAT) / godz.,23520.0,23520.0,netto,mies,23520.0,0
+Senior Data Engineer,DataRiseLab Sp. z o.o.,"Azure Data Factory, Azure SQL, Synapse Analytics, DataBricks",data engineer,Wrocław,20 000–30 000 zł netto (+ VAT) / mies.,20000.0,30000.0,netto,mies,25000.0,1
+Big Data Engineer,EndySoft,"Apache Spark, Hadoop, Kafka, Flink, Python, Scala, Java, SQL, PostgreSQL, MongoDB, Cassandra, AWS, Microsoft Azure, Google Cloud Platform, Apache Airflow, Docker, Kubernetes",data engineer,Warszawa,17 400–20 900 zł netto (+ VAT) / mies.,17400.0,20900.0,netto,mies,19150.0,0
+Senior Data Engineer (Azure),Scalo Sp. z o.o.,SQL,data engineer,Wrocław,25 200 zł netto (+ VAT) / mies.,25200.0,25200.0,netto,mies,25200.0,1
+Senior Data Engineer (DataBricks + SQL + Python),Scalo Sp. z o.o.,"SQL, Python",data engineer,Wrocław,25 200 zł netto (+ VAT) / mies.,25200.0,25200.0,netto,mies,25200.0,1
+Senior Data Engineer (DataBricks + SQL + Python),Scalo Sp. z o.o.,"SQL, Python",data engineer,Wrocław,150 zł netto (+ VAT) / godz.,25200.0,25200.0,netto,mies,25200.0,1
+Data Engineer / Snowflake Developer,ITDS Polska Sp. z o.o.,"SQL, Python, Snowflake Data Cloud",data scientist,Warszawa,23 000–31 500 zł netto (+ VAT) / mies.,23000.0,31500.0,netto,mies,27250.0,0
+Senior Data Engineer,ITP IT PERFORMANCE sp. z o.o.,"Python, Snowflake, DBT, GitLab, SQL, Git, AWS, Airflow, AutoMateNow",data scientist,Warszawa,125–155 zł netto (+ VAT) / godz.,21000.0,26040.0,netto,mies,23520.0,1
+Senior Data Engineer (Azure / Databricks),GETINDATA POLAND sp. z o.o.,"Python, Scala, Java, Databricks, Kafka, Git, Microsoft Azure, Docker, Terraform, Azure DevOps",data scientist,Warszawa,160–200 zł netto (+ VAT) / godz.,26880.0,33600.0,netto,mies,30240.0,1
+Data Scientist,SQUARE ONE RESOURCES sp. z o.o.,"Python, SQL, PySpark, Azure Cloud, Databricks",data scientist,Warszawa,100–130 zł netto (+ VAT) / godz.,16800.0,21840.0,netto,mies,19320.0,0
+Senior Data Scientist,KUBO,"Python, LLM, PyTorch / TensorFlow / Keras",data scientist,Gdańsk,100–130 zł netto (+ VAT) / godz.,16800.0,21840.0,netto,mies,19320.0,1
+Data Analyst - Data Architect,CadEx Digital s.r.o.,"SQL, Sybase, Sybase Power Designer, 3NF",data scientist,Bratislava,15 100–19 500 zł brutto / mies.,10570.0,13650.0,netto,mies,12110.0,0
+Senior Data Scientist,Adform Sp. z o.o.,"Python, SQL, git, Docker, C#, Java, C, C++, Scala",data scientist,Warszawa,22 400–33 600 zł netto (+ VAT) / mies.,22400.0,33600.0,netto,mies,28000.0,1
+Data Engineer,STX Next S.A.,"PostgreSQL, Python, Azure SQL, ETL, SQL, NoSQL, Snowflake Data Cloud, Apache Flink, Git, Docker",data scientist,Poznań,16 128–26 880 zł netto (+ VAT) / mies.,16128.0,26880.0,netto,mies,21504.0,0
+Data Scientist,EndySoft,"Python, R, TensorFlow, PyTorch, Microsoft Power BI, Tableau, Matplotlib, Spark, Hadoop, Databricks",data scientist,Warszawa,14 000–17 500 zł netto (+ VAT) / mies.,14000.0,17500.0,netto,mies,15750.0,0
+Senior Data Engineer,ITligent Group Sp. z o.o.,"Azure Data Factory, Snowflake Data Cloud, Spark, GCP Data Flow, Apache Spark, Hadoop, SQL, Azure Databricks",data scientist,Warszawa,20 000–30 000 zł netto (+ VAT) / mies.,20000.0,30000.0,netto,mies,25000.0,1
+Data Engineer (AWS & Python),CHABRE IT SERVICES SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,"Python, AWS",data scientist,Warszawa,180 zł netto (+ VAT) / godz.,30240.0,30240.0,netto,mies,30240.0,0
+Senior Cloud Data Engineer,Team Connect Sp. z o.o.,"SQL, NoSQL, Python, DataBricks, Snowflake, Microsoft Azure, PySpark",data scientist,Warszawa,25 600–28 800 zł netto (+ VAT) / mies.,25600.0,28800.0,netto,mies,27200.0,1
+Data Analyst,EndySoft,"SQL, Microsoft Power BI, Tableau, Looker, Python, R",data scientist,Warszawa,14 000–17 500 zł netto (+ VAT) / mies.,14000.0,17500.0,netto,mies,15750.0,0
+Data Analyst (Anaplan),7N Sp. z o.o.,"SQL, Microsoft Excel",data scientist,Warszawa,21 840–28 560 zł netto (+ VAT) / mies.,21840.0,28560.0,netto,mies,25200.0,0
